@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Practical4"
 include(":app")
+include(":app")
  
